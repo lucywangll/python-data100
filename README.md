@@ -5,7 +5,7 @@ data100 2022 spring
 ## lab
 ~~lab01  
 ab02  
-lab03~~
+lab03~~  
 lab04  
 lab05  
 lab06  
@@ -19,7 +19,7 @@ lab13
 lab14  
 ## hw
 ~~hw01  
-hw02  ~~
+hw02~~  
 hw03  
 hw04  
 hw05  
