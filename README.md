@@ -3,9 +3,9 @@ data100 2022 spring
 
 # 自学作业记录
 ## lab
-~~lab01~~
+~~lab01
 ab02
-~~lab03~~
+lab03~~
 lab04
 lab05
 lab06
